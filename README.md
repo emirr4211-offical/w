@@ -11,7 +11,7 @@ Merhabalar, bütün projelerim aşağıdadır. İstediğiniz gibi indirip kullan
 - Basit arayüz
 - C# ile geliştirildi
 
-🔗 [İndirme Linki](https://github.com/emirr4211-offical/w/raw/refs/heads/main/isohub.exe)
+🔗 [İndirme Linki](https://emirr4211-offical.github.io/w/isohub.html)
 
 ---
 
