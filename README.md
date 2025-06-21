@@ -15,14 +15,4 @@ Merhabalar, bütün projelerim aşağıdadır. İstediğiniz gibi indirip kullan
 
 ---
 
-**BASKA PROJE**  
-**Özellikler:**
-- Örnek özellik 1
-- Örnek özellik 2
-- Açık kaynak
-
-🔗 [İndirme Linki](https://example.com/baskaproje)
-
----
-
 Daha fazla proje eklendikçe bu liste güncellenecektir.
